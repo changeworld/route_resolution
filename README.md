@@ -1,4 +1,5 @@
 # RouteResolution
+[![Build Status](https://travis-ci.org/changeworld/route_resolution.svg?branch=master)](https://travis-ci.org/changeworld/route_resolution)
 
 Gem for Ruby on Rails to convert routes.rb without using resource styles.
 
